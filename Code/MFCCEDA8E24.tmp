@@ -1,0 +1,55 @@
+#include <Timer0.h>
+#include "tm4c123gh6pm.h"
+#include "Buzzer.h"
+//extern int seconds;
+extern int final_sec;
+ extern int min_screen;
+  extern int  sec_screen;
+static void (*g_Timer0_Call_Back_Ptr)(void) = NULL_PTR;
+//int seconds=0;
+void Timer0A_Init(void){ 
+  TIMER0_CTL_R = 0;    //  disable TIMER0A during setup
+  SYSCTL_RCGCTIMER_R |= 0x01;
+  NVIC_EN0_R |= (1<<19);           // 9) enable IRQ 19 in NVIC
+  TIMER0_CFG_R = 0x4;    //  configure for 16-bit mode
+  TIMER0_TAMR_R = 0x02;   //  configure for periodic mode, default down-count settings
+  TIMER0_TAILR_R = 16000000-1;    //  reload value 32
+  TIMER0_TAPR_R = 0;            //  bus clock resolution
+  TIMER0_ICR_R = 0x01;    //  clear TIMER0A timeout flag
+  TIMER0_IMR_R |= 0x01;    //  arm timeout interrupt
+  TIMER0_CTL_R = 0x7;    //  disable TIMER0A during setup
+ // NVIC_PRI4_R = (NVIC_PRI4_R&0x00FFFFFF)|0x80000000; //  priority 4
+// interrupts enabled in the main program after all devices initialized
+// vector number 35, interrupt number 19
+
+}
+void Timer0A_Deinit()
+{
+      TIMER0_CTL_R = 0;
+SYSCTL_RCGCTIMER_R=0;
+}
+void Timer0A_Handler(void)
+{
+  TIMER0_ICR_R = TIMER_ICR_TATOCINT;
+  
+   if(g_Timer0_Call_Back_Ptr != NULL_PTR)
+  
+  {
+
+    (*g_Timer0_Call_Back_Ptr)();
+
+    } 
+}
+void Timer0_SetCallBack(void(*Ptr2Func)(void))
+{
+    g_Timer0_Call_Back_Ptr = Ptr2Func;
+}
+
+      //seconds--;
+      //(*g_Timer0_Call_Back_Ptr)();
+    // final_sec--;
+//   min_screen=(final_sec/60);
+//    sec_screen=(final_sec%60);
+//    if(final_sec==0)
+//    {
+//      Buzzer_on();

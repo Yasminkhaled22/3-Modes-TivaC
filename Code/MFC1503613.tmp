@@ -1,0 +1,9 @@
+#ifndef Timer_Mode_H_
+#define Timer_Mode_H_
+
+#include "lcd.h"
+#include "keypad.h"
+
+void Enter_Time(void);
+void Timer_Mode(void);
+#endif
