@@ -1,0 +1,1 @@
+﻿F:\F_Downloads\LCD_Files\main.c -o F:\F_Downloads\LCD_Files\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config D:\IAR\arm\inc\c\DLib_Config_Normal.h -I C:\ti\TivaWare_C_Series-2.0\inc\ -I F:\F_Downloads\LCD_Files\ -Ol

@@ -1,0 +1,239 @@
+# ninja log v5
+102	248	6938632540000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/interrupt.xcl	b85f9b9d70df6369
+211	281	6938632540000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/tm4c123gh6pm_startup_ccs.xcl	84f6749cfa6960ee
+11	121	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/gpio.xcl	d69a21fd593215de
+11	341	6939574798849809	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/keypad.pbi	56ecac4e83b43f1
+120	222	6938632540000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/sysctl.xcl	3cfe85adcc258d72
+7	132	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/main.xcl	86a72decf2c002b4
+4	95	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/cpu.xcl	69e4254692aac628
+93	195	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/lcd.xcl	2c83de32d74fba55
+138	289	6938632540745501	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/cpu.pbi	f1abf0209a741fc4
+4	371	6938907220343725	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/main.pbi	4d4eb109ea127a88
+292	350	6938632541395049	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/interrupt.pbi	59bef180ec531726
+429	563	6938632543538184	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/tm4c123gh6pm_startup_ccs.pbi	6b3497b2de9024c7
+353	435	6938632542246500	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/sysctl.pbi	e3e4d41f06ba1a37
+1	86	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Buzzer.xcl	70770aa0309b3365
+162	299	6939600221292855	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	690680471cf1a1f3
+343	427	6938632542160925	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/gpio.pbi	91e4dd79075af35a
+2	53	6938834261519359	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/lcd.pbi	47a99198f276d49e
+9	104	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/DIO.xcl	80a814dad9abbeb0
+221	294	6938632540000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Timer0.xcl	6b5a1a82cf6324c0
+484	910	6939574804580046	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2_part0.pbi	7956c659823b6c80
+347	1007	6939574805544889	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2_part1.pbi	22de4825d6be90f4
+2	1430	6939600295846433	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbw	32f659acb03c3e8e
+310	515	6939600223460675	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3ce1e7f2fe5241f9
+2	155	6939600219854534	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/main_.pbi	65d3b37d0e78382c
+112	204	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/keypad.xcl	99e3351087fa847
+5	113	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Delay.xcl	2f8a2e7b86e77f89
+14	479	6939574800234333	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/DIO.pbi	dc21735f972ba771
+367	697	6939574802437686	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2_part3.pbi	e136865a33a23be6
+202	345	6938632541344905	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Delay.pbi	d70325f7b66e0b21
+5	325	6939574798656850	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Buzzer.pbi	995b10e1b9fc8520
+25	747	6939574802847666	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Timer0.pbi	f2d0e8cb2020abb
+130	212	6938632530000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/startup_ewarm.xcl	ae8f8e699db4ab24
+330	722	6939574802185668	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/startup_ewarm.pbi	121b549c4398cc2e
+4	202	6939310680000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Timer1.xcl	29eda6c98850d3f3
+1	289	6939310680000000	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/main_.xcl	9058f2caf8905391
+30	362	6939574798976107	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Timer1.pbi	bd8e642eccfebfb1
+1	229	6939602312771050	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/main_.pbi	65d3b37d0e78382c
+236	337	6939602313868385	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	690680471cf1a1f3
+347	476	6939602315254398	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3ce1e7f2fe5241f9
+485	1832	6939602328407458	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbw	32f659acb03c3e8e
+1	218	6939603238234124	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/main_.pbi	65d3b37d0e78382c
+225	311	6939603239171512	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	690680471cf1a1f3
+319	452	6939603240577751	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3ce1e7f2fe5241f9
+462	1646	6939603252096098	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbw	32f659acb03c3e8e
+3	42	6939605769423052	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/startup_ewarm.pbi	121b549c4398cc2e
+1	80	6939605820874645	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/main_.pbi	65d3b37d0e78382c
+83	150	6939605821583151	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	690680471cf1a1f3
+156	270	6939605822757460	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3ce1e7f2fe5241f9
+279	1235	6939605832084670	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbw	32f659acb03c3e8e
+4	273	6939608520951994	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/main_.pbi	65d3b37d0e78382c
+287	477	6939608523020271	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	690680471cf1a1f3
+495	805	6939608526293264	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3ce1e7f2fe5241f9
+825	3555	6939608553196763	F:/F_Downloads/LCD_Files/Debug/BrowseInfo/Test_2.pbw	32f659acb03c3e8e
+93	1722	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/interrupt.xcl	7f412db6f85529ce
+86	1746	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Buzzer.xcl	4cdef74652049020
+1725	1780	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/keypad.xcl	71d3831c213796f0
+1749	1811	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/DIO.xcl	b4245aa3c4beb73f
+84	1818	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/cpu.xcl	2322c320f7cd0400
+89	1824	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Delay.xcl	c4ddc7a295930c5b
+91	1832	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/gpio.xcl	1170726cf490244
+42	1850	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/lcd.xcl	b0423cf653e65400
+1785	1856	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/startup_ewarm.xcl	d31f59e7209911dc
+1815	1883	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.xcl	be97e5b3b8a7d111
+1854	1890	6939611693762071	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Delay.pbi	3b75f74374ec0047
+1822	1894	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.xcl	b00c732df8e557ba
+1829	1900	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/sysctl.xcl	49ed9c1477770e28
+1860	1929	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/tm4c123gh6pm_startup_ccs.xcl	5bf6d9f96540e95
+1903	1944	6939611694320573	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/cpu.pbi	b706aebd7b9bedbb
+1836	1958	6939611694460272	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Buzzer.pbi	21b74a3784d6cded
+1892	1963	6939611690000000	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.xcl	3814c03fd629ef6f
+1887	1979	6939611694669640	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/DIO.pbi	f1d4e108c9adee59
+1897	1991	6939611694799295	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/gpio.pbi	1a8db95b0b2ed329
+1945	2003	6939611694909005	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/lcd.pbi	136d94cc3aed8e9b
+1960	2013	6939611695008735	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/startup_ewarm.pbi	279f160ada41f852
+1933	2020	6939611695088523	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.pbi	e941b433955fa1f9
+1980	2041	6939611695297974	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/interrupt.pbi	b7c5b6388f7eaf92
+1967	2060	6939611695357802	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/keypad.pbi	7d0de0ce74629c36
+2022	2064	6939611695437587	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/tm4c123gh6pm_startup_ccs.pbi	476581a054d189bb
+2004	2080	6939611695686922	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/sysctl.pbi	8211e1775b8fb9d2
+1993	2091	6939611695796633	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+2043	2107	6939611695966174	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part0.pbi	7fff5c8d9f2ad2dd
+2062	2114	6939611696026016	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part1.pbi	68db447bfe546195
+2092	2152	6939611696414989	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+2015	2188	6939611696764067	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.pbi	a38e50b5765ac2e6
+2189	2216	6939611697053278	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part3.pbi	a65d71e5030ced70
+2219	2314	6939611698030647	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+2317	3271	6939611707303801	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+17	72	6939612433084042	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.pbi	e941b433955fa1f9
+1	90	6939612433253458	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+92	160	6939612433951602	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+163	259	6939612434948953	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+262	1216	6939612444132805	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+2	71	6939612646537084	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.pbi	e941b433955fa1f9
+73	143	6939612647255169	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+146	249	6939612648312677	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+252	1166	6939612657208688	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+1	64	6939612959806131	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.pbi	e941b433955fa1f9
+67	134	6939612960504268	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+137	227	6939612961441759	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+230	1180	6939612970657260	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+2	841	6939612977488991	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+1	71	6939616503583445	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.pbi	a38e50b5765ac2e6
+1	77	6939616503593424	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.pbi	a38e50b5765ac2e6
+74	113	6939616503962422	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part3.pbi	a65d71e5030ced70
+116	233	6939616505159226	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+237	1159	6939616514136677	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+1	66	6939616616199285	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.pbi	e941b433955fa1f9
+68	138	6939616616917360	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+141	234	6939616617874803	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+237	1166	6939616626905565	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+11	66	6939618695952427	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.pbi	a38e50b5765ac2e6
+2	87	6939618696151887	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+69	108	6939618696371304	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part3.pbi	a65d71e5030ced70
+88	146	6939618696750549	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+150	238	6939618697667839	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+241	1178	6939618706701430	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+14	75	6939619363900901	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.pbi	a38e50b5765ac2e6
+77	121	6939619364359673	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part3.pbi	a65d71e5030ced70
+1	203	6939619365177478	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+205	272	6939619365865636	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+275	373	6939619366882920	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+376	1308	6939619375908773	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+12	68	6939619427515774	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.pbi	a38e50b5765ac2e6
+1	89	6939619427725208	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+70	110	6939619427944634	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part3.pbi	a65d71e5030ced70
+91	151	6939619428353535	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+154	249	6939619429331250	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+252	1172	6939619438245300	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+1	85	6939632957211312	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+87	160	6939632957959300	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+164	258	6939632958936683	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+261	1192	6939632968003023	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+5	164	6939636827746789	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+169	251	6939636828623995	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+257	362	6939636829741054	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+367	1524	6939636840883007	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+3	128	6939641531744556	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+133	216	6939641532632195	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+223	329	6939641533759171	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+333	1464	6939641544739277	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+5	295	6939657511872730	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+300	392	6939657512850187	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+398	517	6939657514096769	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+523	1781	6939657526268343	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+2	225	6939659127056386	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+230	315	6939659127954236	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+320	428	6939659129090925	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+433	1620	6939659140565576	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+4	114	6939660579471350	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/lcd.pbi	136d94cc3aed8e9b
+119	190	6939660580234316	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part1.pbi	68db447bfe546195
+194	311	6939660581441273	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+315	1496	6939660592850509	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+5	455	6940122768908601	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+461	845	6940122772768641	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+864	1188	6940122776233243	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+1194	6522	6940122828563824	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+20	328	6940122989525370	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d65d75072a4fbfbf
+3	405	6940122990323253	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/keypad.pbi	7d0de0ce74629c36
+339	717	6940122993434864	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	7b8c2f643e9302e0
+420	739	6940122993644280	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part1.pbi	68db447bfe546195
+763	1198	6940122998302271	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	3b7604b9f61f43ee
+1202	5050	6940123036389773	C:/Users/LEGION/Downloads/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	9e4fc234bd4baea9
+2	617	6942452880000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/cpu.xcl	d94d59f2d8b40abb
+23	652	6942452880000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Delay.xcl	51416bd00ad168b5
+45	760	6942452880000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/keypad.xcl	704d9c1adf14e553
+29	815	6942452880000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/interrupt.xcl	2974b8d1fb82a760
+17	854	6942452880000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/gpio.xcl	ffcc98df2364de2
+11	909	6942452880000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Buzzer.xcl	c26c25da9becdbc
+646	1104	6942452890000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/DIO.xcl	947fef207e899d7c
+946	1150	6942452893430979	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/cpu.pbi	2126258c9159b831
+691	1234	6942452890000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.xcl	255846b5dd0f7aa5
+849	1322	6942452890000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/startup_ewarm.xcl	fc499d9447caf459
+784	1344	6942452890000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/sysctl.xcl	26749caefae8ae32
+897	1394	6942452890000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/lcd.xcl	3f5c66215185884c
+1174	1487	6942452896881961	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Delay.pbi	62ab26707bc78ab9
+1143	1781	6942452899848816	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/DIO.pbi	67a5a99c2bd467ad
+1498	1865	6942452900784081	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/lcd.pbi	ca39b334fe1a2e0d
+1318	1881	6942452900863868	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Buzzer.pbi	9f8d9d14a8eecd52
+1482	1895	6942452900000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.xcl	765e6965dadef5a8
+1338	1939	6942452900000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/tm4c123gh6pm_startup_ccs.xcl	6b7ebf1ed7df9da7
+1876	2012	6942452902340081	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/keypad.pbi	671abbcf38b324f8
+1364	2033	6942452900000000	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.xcl	5a6dadfb5c5bb830
+1890	2122	6942452903388941	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/startup_ewarm.pbi	a765572c718e3417
+1860	2137	6942452903660551	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	4646dabcc7b9f450
+2059	2287	6942452905026120	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/tm4c123gh6pm_startup_ccs.pbi	28bed7562fd1cbf0
+1917	2320	6942452905279609	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/gpio.pbi	6972f0e2097d49df
+1957	2382	6942452906028289	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/interrupt.pbi	3319c50c61bc68b
+2024	2501	6942452907152999	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/sysctl.pbi	74704249f922b535
+2149	2522	6942452907296266	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part0.pbi	98ed0c3c384c6cf7
+2133	2638	6942452908655452	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.pbi	bc60d362d47f008b
+2392	2662	6942452908773123	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part1.pbi	1ffa47aec7578550
+2306	2747	6942452909829004	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.pbi	93c2675dfc343862
+2649	2766	6942452910041701	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part3.pbi	f191d8be17769c2b
+2756	2958	6942452911936496	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	a1fe04389f1d9919
+2978	3402	6942452916370179	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	508b53d9e6db88f8
+3424	8087	6942452962339690	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	5481c1534604f6f4
+3	208	6942640630762335	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Buzzer.pbi	9f8d9d14a8eecd52
+224	381	6942640632509555	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part0.pbi	98ed0c3c384c6cf7
+411	768	6942640636376269	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	508b53d9e6db88f8
+808	3968	6942640667635287	F:/F_Downloads/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	5481c1534604f6f4
+14	247	7093257170000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Buzzer.xcl	95b64649d2961444
+5	263	7093257170000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/cpu.xcl	c3c0a906f4b5c06
+16	334	7093257170000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.xcl	7c57da9a1c0ec662
+21	349	7093257170000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/interrupt.xcl	7b9b24659ed633b
+9	363	7093257170000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Delay.xcl	e7ca95b9c4ea3089
+11	416	7093257170000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/DIO.xcl	3aeb5f470e9338c2
+306	523	7093257180000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/gpio.xcl	507f851b341f7e52
+257	540	7093257180000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/keypad.xcl	7121cfa0b819102c
+346	586	7093257180000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/lcd.xcl	7dde8350946138b
+360	634	7093257180000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/tm4c123gh6pm_startup_ccs.xcl	21ad28867eb1f4bd
+427	649	7093257182125831	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Buzzer.pbi	e9a5881083d5b148
+555	682	7093257182425881	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/cpu.pbi	bc621603869c0d15
+372	713	7093257180000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.xcl	e527eafeb3d323f9
+532	731	7093257180000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.xcl	77f70a4ad1754c68
+596	780	7093257180000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/startup_ewarm.xcl	bb70461f561c128c
+656	817	7093257183881192	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/lcd.pbi	223583854bac01c1
+705	833	7093257184041290	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/interrupt.pbi	c5905aa140c81ff9
+743	845	7093257184071288	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Delay.pbi	452243867363d3e9
+646	857	7093257180000000	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/sysctl.xcl	2ce9a8f32028ae98
+792	890	7093257184592788	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/keypad.pbi	bc5352d3c06c5694
+724	907	7093257184772768	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d554e29447066388
+853	1018	7093257185358242	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/tm4c123gh6pm_startup_ccs.pbi	bb1c8290feb5774d
+842	1033	7093257185938289	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/gpio.pbi	1d7e718804d6e119
+827	1125	7093257186363666	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/DIO.pbi	4c23fd5aa263d22
+868	1143	7093257186873657	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer1.pbi	735fb8c34a450edf
+899	1171	7093257186903662	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/sysctl.pbi	f05bc837b27b0578
+913	1203	7093257187198940	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/startup_ewarm.pbi	c6f46f10e1d971f8
+1042	1233	7093257187959048	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part1.pbi	6f41ae76c055028b
+1152	1371	7093257188964397	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part3.pbi	5673e835db5672df
+1141	1381	7093257189359578	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part0.pbi	b729d1f4496cabb2
+1026	1487	7093257190564820	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Timer0.pbi	1295522040c8e402
+1495	1667	7093257192365439	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	bc4a9b07a97eccaf
+1681	1946	7093257195181615	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	4398eaf014cf818
+1964	4650	7093257221557160	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	2b15431fb721fe11
+2	92	7093261985547398	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/main_.pbi	d554e29447066388
+103	228	7093261986908290	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2_part2.pbi	bc4a9b07a97eccaf
+248	468	7093261989309145	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbd	4398eaf014cf818
+489	3184	7093262015629368	E:/ASU/Academic/semester 7/CSE211 Introduction to Embedded Systems/Project_embedded/LCD_Files (5)/LCD_Files (4)/LCD_Files/Debug/BrowseInfo/Test_2.pbw	2b15431fb721fe11

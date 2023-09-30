@@ -1,0 +1,15 @@
+"D:\IAR\arm\bin\armPROC.dll" 
+
+"D:\IAR\arm\bin\armLMIFTDI.dll" 
+
+"E:\ASU\Academic\semester 7\CSE211 Introduction to Embedded Systems\Project_embedded\LCD_Files (5)\LCD_Files (4)\LCD_Files\Debug\Exe\Test_2.out" 
+
+--plugin="D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR\arm/config/debugger/TexasInstruments/TM4C123.dmac" 
+
+--flash_loader="D:\IAR\arm/config/flashloader/TexasInstruments/FlashTC4_H6_o.board" 
+
+
+
+
